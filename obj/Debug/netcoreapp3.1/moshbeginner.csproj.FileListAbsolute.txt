@@ -1,0 +1,11 @@
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.exe
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.deps.json
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.runtimeconfig.json
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.runtimeconfig.dev.json
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.dll
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\bin\Debug\netcoreapp3.1\moshbeginner.pdb
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\obj\Debug\netcoreapp3.1\moshbeginner.csprojAssemblyReference.cache
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\obj\Debug\netcoreapp3.1\moshbeginner.AssemblyInfoInputs.cache
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\obj\Debug\netcoreapp3.1\moshbeginner.AssemblyInfo.cs
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\obj\Debug\netcoreapp3.1\moshbeginner.dll
+C:\Users\Lou\Desktop\moshbeginner\moshbeginner\obj\Debug\netcoreapp3.1\moshbeginner.pdb
