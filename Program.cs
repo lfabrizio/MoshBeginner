@@ -1,12 +1,22 @@
 ﻿using System;
 
-namespace Variables
+namespace TypeConversion
 {
     class Program
     {
         static void Main(string[] args)
         {
-            const float Pi = 3.14f;
+            try 
+            {
+            string str = "true";
+            bool b = Convert.ToBoolean(str);
+            Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The Number couldnt be converted to a byte");
+            }
+            
         }
     }
 }
