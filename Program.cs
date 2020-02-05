@@ -6,21 +6,21 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-         var numbers = new int[3];
-         numbers[0] = 1;
+         var firstName = "Mosh";
+         var lastName = "Howard";
 
-         Console.WriteLine(numbers[0]);
-         Console.WriteLine(numbers[1]);
-         Console.WriteLine(numbers[2]);
-       
-        var flags = new bool[3];
-        flags[0] = true;
+         var fullName = firstName + " " + lastName;
 
-        Console.WriteLine(flags[0]);
-        Console.WriteLine(flags[1]);
-        Console.WriteLine(flags[2]);
+         var myFullName = string.Format("My Name is {0} {1}", firstName, lastName);
 
-        var names = new string[3] { "Jack", "John", "Mary"}
+         var names = new string [3] { "John", "Jack", "Mary"};
+         var formattedNames = string.Join(",", names);
+
+         var text = @"Hi John
+         Look into the folowing paths
+         c:\folder1\folder2
+         c:\folder3\folder4";
+         Console.WriteLine(text);
         }
 
     }
