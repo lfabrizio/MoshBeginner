@@ -13,7 +13,7 @@ namespace Conditionals
                     Console.WriteLine(name[i])
                 }
 
-                foreavh (var character in name)
+                foreach (var character in name)
                 {
                     Console.WriteLine(character);
                 }
