@@ -6,18 +6,18 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            var season = Season.Autumn;
+                var name = "John Smith";
 
-            switch (season)
-            {
-                case Season.Autumn:
-                case Season.Summer:
-                Console.WriteLine("running promotion");
-                break;
+                for (var i = 0; i < name.length; i++)
+                {
+                    Console.WriteLine(name[i])
+                }
 
-                default:
-                Console.WriteLine("dont know the season");
-                break;
+                foreavh (var character in name)
+                {
+                    Console.WriteLine(character);
+                }
+                }
             }
         }
     }
